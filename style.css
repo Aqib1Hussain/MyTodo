@@ -1,0 +1,42 @@
+.container{
+    position: relative;
+    border: 1px solid black;
+    height: 100vh;
+}
+header{
+    margin: 40px auto;
+    
+}
+.inputs>input{
+    width: 80%;
+}
+
+.tasks{
+    
+    border: 1px solid black;
+}
+.color{
+    
+    
+    
+}
+.red{
+    
+    justify-content: flex-end;
+
+}
+.flex{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    
+}
+.inputs{
+    flex: 1;
+}
+.tasks{
+    flex:1;
+}
+.block{
+    text-align: left;
+}
